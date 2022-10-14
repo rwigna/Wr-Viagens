@@ -1,6 +1,6 @@
 # WR Viagens  ✈️
 <p align="center">
-<img src="https://i.imgur.com/T8U9qQc.png" alt="WRViagens" title="WRViagens">
+
 </p>
 
 ## 📖 Sobre   
